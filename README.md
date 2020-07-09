@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! I'm Ivan  👋
+
+Currently i'm a freelance web developer
+
+📫 How to reach me: ...
+- [Twitter](https://twitter.com/MuhamadIvann_)
+- [Instagram](https://www.instagram.com/muhamadivann/)
+
+Byeee 😴
 
 <!--
 **kuetabby/kuetabby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
