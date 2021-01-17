@@ -1,6 +1,6 @@
 ### Hi there! I'm Ivan  👋
 
-Currently i'm a freelance web developer
+👯 I’m looking to a new job
 
 📫 How to reach me: ...
 - [Twitter](https://twitter.com/MuhamadIvann_)
