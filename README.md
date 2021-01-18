@@ -1,6 +1,6 @@
 ### Hi there! I'm Ivan  👋
 
-👯 I’m looking to a new job
+👯 I’m looking for a job
 
 📫 How to reach me: ...
 - [Twitter](https://twitter.com/MuhamadIvann_)
