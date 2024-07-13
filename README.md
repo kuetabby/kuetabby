@@ -1,15 +1,15 @@
 ### Hi there! I'm Ivan  👋
 
-📫 How to reach me: ...
-- [Twitter](https://twitter.com/MuhamadIvann_)
-- [Instagram](https://www.instagram.com/muhamadivann/)
-
 Byeee 😴
 
 <!--
 **kuetabby/kuetabby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+📫 How to reach me: ...
+- [Twitter](https://twitter.com/MuhamadIvann_)
+- [Instagram](https://www.instagram.com/muhamadivann/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
